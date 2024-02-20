@@ -4,6 +4,10 @@ Packages to be installed:
 =========================
 pip install flask sqlalchemy
 
+How to Run:
+===========
+python api.py
+
 
 Packages used:
 =============
