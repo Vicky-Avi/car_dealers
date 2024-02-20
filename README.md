@@ -18,7 +18,7 @@ Endpoints:
 ==========
 Also check the endpoints.xlsx, it has the sample requuest details for the reference
 
-POST	     ==> http://localhost:5000/dealers
+POST	     ==> http://localhost:5000/dealers \n
 GET	       ==> http://localhost:5000/dealers
 GET	       ==> http://localhost:5000/dealers/{{dealer_id}}
 DELETE     ==> http://localhost:5000/dealers/{{dealer_id}}
