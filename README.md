@@ -28,5 +28,4 @@ GET	       ==> http://localhost:5000/cars
 GET	       ==> http://localhost:5000/cars/{{record_id}}
 DELETE	   ==> http://localhost:5000/cars/{{record_id}}
 PUT, PATCH ==> http://localhost:5000/cars/{{record_id}}
-![image](https://github.com/Vicky-Avi/car_dealers/assets/46520699/6e6d42e5-be52-43b0-bacf-bd558804fe37)
 
