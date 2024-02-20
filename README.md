@@ -7,7 +7,7 @@ pip install flask sqlalchemy
 
 Packages used:
 =============
-SQLAlchamy ==> To perform the SQL actions in the flask
+SQLAlchamy ==> To perform the SQL actions in the flasks
 datetime   ==> To update current time in the records
 enum       ==> Used to specify the status for the records.
 Flask      ==> To perform creation of flask applications 
