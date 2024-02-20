@@ -19,13 +19,13 @@ Endpoints:
 Also check the endpoints.xlsx, it has the sample requuest details for the reference
 
 POST	     ==> http://localhost:5000/dealers                                                                                                                                                                         
-GET	       ==> http://localhost:5000/dealers
-GET	       ==> http://localhost:5000/dealers/{{dealer_id}}
-DELETE     ==> http://localhost:5000/dealers/{{dealer_id}}
-PUT, PATCH ==> http://localhost:5000/dealers/{{dealer_id}}
-POST	     ==> http://localhost:5000/cars
-GET	       ==> http://localhost:5000/cars
-GET	       ==> http://localhost:5000/cars/{{record_id}}
-DELETE	   ==> http://localhost:5000/cars/{{record_id}}
+GET	       ==> http://localhost:5000/dealers                                                                                                                                                                        
+GET	       ==> http://localhost:5000/dealers/{{dealer_id}}                                                                                                                                                          
+DELETE     ==> http://localhost:5000/dealers/{{dealer_id}}                                                                                                                                                           
+PUT, PATCH ==> http://localhost:5000/dealers/{{dealer_id}}                                                                                                                                                           
+POST	     ==> http://localhost:5000/cars                                                                                                                                                                            
+GET	       ==> http://localhost:5000/cars                                                                                                                                                                            
+GET	       ==> http://localhost:5000/cars/{{record_id}}                                                                                                                                                              
+DELETE	   ==> http://localhost:5000/cars/{{record_id}}                                                                                                                                                              
 PUT, PATCH ==> http://localhost:5000/cars/{{record_id}}
 
