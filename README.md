@@ -7,11 +7,11 @@ pip install flask sqlalchemy
 
 Packages used:
 =============
-SQLAlchamy ==> To perform the SQL actions in the flask;
-datetime   ==> To update current time in the records
-enum       ==> Used to specify the status for the records.
-Flask      ==> To perform creation of flask applications 
-request    ==> Used to get the request params values
+SQLAlchamy ==> To perform the SQL actions in the flask                                                                                                                                                               
+datetime   ==> To update current time in the records                                                                                                                                                                 
+enum       ==> Used to specify the status for the records.                                                                                                                                                          
+Flask      ==> To perform creation of flask applications                                                                                                                                                             
+request    ==> Used to get the request params values                                                                                                                                                                 
 jsonify    ==> To convert the response object into json format.
 
 Endpoints:
